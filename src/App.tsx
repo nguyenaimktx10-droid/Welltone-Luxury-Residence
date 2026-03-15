@@ -180,7 +180,7 @@ const Vision = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Sở hữu thị trấn biển</h4>
-                  <p className="text-sm text-luxury-black/60">Tọa lạc tại vịnh biển Cần Giờ, nơi giao thoa giữa rừng ngập mặn và biển cả.</p>
+                  <p className="text-sm text-luxury-black/60">Tuyến đường huyết mạch thúc đẩy kinh tế vùng trọng điểm, kết nối Tây Nguyên và Duyên hải Nam Trung Bộ.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
